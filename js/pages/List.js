@@ -139,8 +139,8 @@ export default {
               <p>{{ selectedLevel.version || 'Any' }}</p>
             </li>
             <li>
-              <div class="type-title-sm">AlTERNATING</div>
-              <p>{{ selectedLevel.alternating || 'No' }}</p>
+              <div class="type-title-sm">HANDCAM</div>
+              <p>{{ selectedLevel.HANDCAM || 'Not Needed' }}</p>
             </li>
           </ul>
           <h2>Records</h2>
