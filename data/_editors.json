@@ -1,35 +1,15 @@
 [
     {
         "role": "owner",
-        "name": "pixelfactorial",
-        "link": "https://www.youtube.com/@pixelfactorial"
+        "name": "pastel",
+        "link": "https://www.youtube.com/@pastelliano"
     },
     {
-        "role": "helper",
-        "name": "cookie498",
-        "link": "https://www.youtube.com/@galbeni7gd"
+        "role": "owner",
+        "name": "aelzfr",
+        "link": "https://www.youtube.com/@aelzfr"
     },
-    {
-        "role": "helper",
-        "name": "Frozix",
-        "link": "https://youtube.com/@frozixgd?si=2RUA7rCzs9OOyVJT"
-    },
-    {
-        "role": "helper",
-        "name": "blightedcoconut",
-        "link": "https://www.youtube.com/@Blightedcoconut"
-    },
-    {
-        "role": "helper",
-        "name": "Sadisyourlife",
-        "link": "https://www.youtube.com/@justaguy8255"
-    },
-    {
-        "role": "helper",
-        "user": "Saturn",
-        "link": "https://www.youtube.com/@Saturnth"
-    },
-    {
+        {
         "role": "dev",
         "name": "aelzfr",
         "link": "https://www.youtube.com/@aelzfr"
