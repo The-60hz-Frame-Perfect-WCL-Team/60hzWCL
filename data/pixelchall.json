@@ -1,0 +1,14 @@
+{
+    "id": 120647153,
+    "name": "Pixel Challenge",
+    "author": "aelzfr",
+    "creators": ["Cyclic", "aelzfr"], 
+    "verifier": "aelzfr",
+    "verification": "https://youtu.be/OoLhfeeF8HU",
+    "percentToQualify": "100",
+    "fps": "60",
+    "version": "2.2",
+    "handcam": "Not Needed",
+    "records": [
+    ]
+}
