@@ -194,19 +194,13 @@ export default {
             </ol>
           </template>
           <h3>Submission Requirements</h3>
-          <p>Every level must be consistency based.</p>
-          <p>Maximum CPS for your level must not be above 10.</p>
+          <p>As the name of the list suggests, your level MUST contain frame perfects on 60hz/fps, and the gameplay must consist of only the wave gamemode.</p>
+          <p>The levels must be shorter than 30 seconds.</p>
           <p>Have either source audio or clicks/taps in the video. Edited audio only does not count</p>
           <p>If your level contains inappropriate content (suggestive art, swastikas, slurs) it will not be added.</p>
-          <p>You cannot include spam based parts (applies to the cps rule) in your level.</p>
-          <p>
-            You're allowed to use FPS Bypass but verifications/completions above 360 FPS or under 60 FPS will not be accepted. This rule is an exception for 2.2 users, as going above 240 FPS will result in the game being locked to 240 FPS.
-          </p>
-          <p>
-            CBF records are allowed for the list, however physics bypass is NOT allowed, but you can play in 2.1 to get up to 360 FPS.
-          </p>
-          <p>Alternating levels above 8 CPS will not be allowed on the list as a recent submission or record, exception being that you're allowed to alternate for only levels, such as "Diamond Blade End x20".
-          </p>
+          <p>Levels dont have a specific CPS cap, but it will go through mods, and if they think the level is too spammy, it will not be added.</p>
+          <p>Either source audio or clicks/taps in the video. Your choice, but the recording MUST have one.</p>
+          <p>Physics Bypass is NOT ALLOWED, obviously.</p>
           <p>Once a level falls onto the Legacy List, we no longer accept records for them.</p>
         </div>
       </div>
